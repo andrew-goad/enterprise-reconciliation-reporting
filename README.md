@@ -43,4 +43,10 @@ This repository is organized as a production-ready governance framework:
 * **Forensic Output:** Generates high-fidelity diagnostic packages (XLSX/CSV) for business governance and regulatory stakeholders.
 
 ---
+
+### 🔒 Integrity & Confidentiality Note
+**Data Privacy:** All data and visual outputs in this repository are generated from synthetic or anonymized datasets to protect proprietary information. This framework demonstrates the methodology applied to high-stakes enterprise and regulatory environments.
+
+---
+
 **Philosophy:** “No Cold Handoffs”—engineering zero-defect, audit-ready results.
