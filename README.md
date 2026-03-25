@@ -3,7 +3,7 @@
 ## 🎯 Strategic Intent: The "Why"
 **How do you reconcile 2.4M+ records without drowning for 14 days in 95,000 "false flags" during a high-stakes enterprise audit?**
 
-I architected this **Machine Learning Reconciliation** engine to bridge the gap between high-volume data discrepancies and **Defensible Audit Resolution**. By leveraging ML pattern mining and forensic "white-box" logic, this system systemically filters the traditional noise of enterprise-scale data ingestions to provide a clear, prioritized roadmap for risk mitigation.
+I architected this **Machine Learning Reconciliation** engine to move enterprise data integrity from manual discrepancy hunting to **Automated Audit Governance**. By leveraging ML pattern mining and forensic "white-box" logic, this system systemically filters the traditional noise of enterprise-scale data ingestions to provide a clear, prioritized roadmap for risk mitigation.
 
 ![Executive Dashboard Preview](https://github.com/andrew-goad/enterprise-reconciliation-reporting/blob/main/docs/executive_dashboard_preview.png?raw=true)
 
