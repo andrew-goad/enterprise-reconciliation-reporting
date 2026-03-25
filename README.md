@@ -1,9 +1,9 @@
 # Machine Learning Reconciliation: Automated Audit Governance 🤖🔎
 
 ## 🎯 Strategic Intent: The "Why"
-**How do you reconcile 2.4M+ records without drowning for 14 days in 95,000 "false flags" during a high-stakes enterprise audit?** 🏛️🔍
+**How do you reconcile 2.4M+ records without drowning for 14 days in 95,000 "false flags" during a high-stakes enterprise audit?**
 
-I architected this **Machine Learning Reconciliation** engine to move enterprise leadership from raw data intake to **Actionable Executive Narratives**. By leveraging ML pattern mining and forensic "white-box" logic, this system bypasses the traditional noise of large-scale data ingestions to provide a clear, defensible path to resolution.
+I architected this **Machine Learning Reconciliation** engine to bridge the gap between high-volume data discrepancies and **Defensible Audit Resolution**. By leveraging ML pattern mining and forensic "white-box" logic, this system systemically filters the traditional noise of enterprise-scale data ingestions to provide a clear, prioritized roadmap for risk mitigation.
 
 ![Executive Dashboard Preview](https://github.com/andrew-goad/enterprise-reconciliation-reporting/blob/main/docs/executive_dashboard_preview.png?raw=true)
 
@@ -14,7 +14,7 @@ I architected this **Machine Learning Reconciliation** engine to move enterprise
 ### ✅ Discrepancy Compression Engine
 Utilizes ML pattern mining to identify systemic co-occurrences—such as UTC timestamp drifts, rounding bias ($0.01 tolerance), and mapping collisions. This systemically reconciles **95% of synthetic noise**, allowing teams to ignore the "chaff" and focus on the risk.
 
-### 🎯 High-Fidelity Risk Isolation
+### 🏛️ High-Fidelity Risk Isolation
 Distills 100K raw flags down to the 5K **"True Exceptions"** that represent 100% of the legitimate enterprise risk profile. This ensures that manual review hours are strictly allocated to high-impact variances rather than systemic ETL artifacts.
 
 ### 📊 The "14-Day Velocity" Dashboard
@@ -36,7 +36,7 @@ This repository is organized as a production-ready governance framework:
 
 ---
 
-## 🏛️ Technical Rigor
+## ⚙️ Technical Rigor
 * **Tolerance-Aware Auditing:** Implements fuzzy-matching for currency and date rounding to eliminate immaterial noise.
 * **ML Pattern Analysis:** Identifies clusters of discrepancies to enable root-cause analysis of systemic ETL failures.
 * **Metadata-Driven Mapping:** Leverages `SAS Dictionary` tables to automatically align disparate schemas across enterprise environments.
