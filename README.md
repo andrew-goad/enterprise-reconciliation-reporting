@@ -49,4 +49,4 @@ This repository is organized as a production-ready governance framework:
 
 ---
 
-**Philosophy:** “No Cold Handoffs”—engineering zero-defect, audit-ready results.
+**Philosophy:** **“No Cold Handoffs”**—engineering zero-defect, audit-ready results to ensure stakeholders internalize the underlying “why.”
