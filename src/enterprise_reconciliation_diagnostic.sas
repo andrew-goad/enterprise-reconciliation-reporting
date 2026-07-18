@@ -304,9 +304,9 @@ proc sql noprint;
     from work._CA a
     inner join work._CB b
       on a.upcase_name=b.upcase_name
-    where (a.type ne b.type)
-       or (cats(coalescec(a.format,''),a.formatl,a.formatd))
-       ne cats(coalescec(b.format,''),b.formatl,b.formatd))
+    where a.type ne b.type
+       or cats(coalescec(a.format,''),a.formatl,a.formatd)
+       ne cats(coalescec(b.format,''),b.formatl,b.formatd)
     order by name;
 quit;
 
