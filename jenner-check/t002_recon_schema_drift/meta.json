@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_recon_schema_drift",
+  "source_file": "src/enterprise_reconciliation_diagnostic.sas + tests/reconciliation_uat_validation.sas",
+  "source_blob_sha": "8ba0e02ce12c26fb64347f4a4eb2770128d385c8 (macro), d41e711cdbdb7aae8f04394a4d0a0ee577f26e6d (uat data)",
+  "source_commit": "cd4111a64d0b7f3fa7fde56560e8aa386db1e1e5",
+  "tier": "real_data",
+  "notes": "DATASET_RECONCILIATION_REPORT Test 1 (variables only in one side, schema drift): PROC CONTENTS metadata capture + UPPER name normalization + FULL JOIN, lifted verbatim from the macro body with &outlib. -> work., run against the RICH UAT A/B datasets. Detects EXTRA_A (A_ONLY) and EXTRA_B (B_ONLY)."
+}

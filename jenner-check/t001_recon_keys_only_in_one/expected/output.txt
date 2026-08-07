@@ -1,0 +1,6 @@
+                                       Keys present in only one dataset (Test 3)                                        
+
+LOAN_ID  CUSTOMER_ID         CATEGORY          NOTES
+   2006          806  KEY_ONLY_IN_ONE  Key only in A
+   2007          807  KEY_ONLY_IN_ONE  Key only in B
+

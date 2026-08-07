@@ -1,0 +1,6 @@
+                              Schema drift: variables present in only one dataset (Test 1)                              
+
+   NAME    SIDE
+EXTRA_A  A_ONLY
+EXTRA_B  B_ONLY
+

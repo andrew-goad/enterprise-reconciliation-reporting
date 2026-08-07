@@ -1,0 +1,49 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA work.A
+
+
+NOTE: Wrote work.A (7 rows, 9 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.B
+
+
+NOTE: Wrote work.B (6 rows, 9 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC CONTENTS data=work.A
+
+NOTE: PROC CONTENTS: OUT=work._CA created with 9 variables
+NOTE: PROC CONTENTS: data=work.A obs=7 vars=9 (NOPRINT)
+NOTE: PROC CONTENTS data=work.B
+
+NOTE: PROC CONTENTS: OUT=work._CB created with 9 variables
+NOTE: PROC CONTENTS: data=work.B obs=6 vars=9 (NOPRINT)
+NOTE: DATA work._CA
+
+
+NOTE: Read 9 rows from work._CA.
+NOTE: Wrote work._CA (9 rows, 17 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work._CB
+
+
+NOTE: Read 9 rows from work._CB.
+NOTE: Wrote work._CB (9 rows, 17 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table work.RECON_VARS_ONLY_IN_ONE created.
+NOTE: PROC SQL statement used.
+NOTE: PROC PRINT data=work.RECON_VARS_ONLY_IN_ONE
+
+NOTE: PROC PRINT completed: 2 observations printed, 2 variables
